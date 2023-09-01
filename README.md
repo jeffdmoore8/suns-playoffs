@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# dplyr <a href="https://dplyr.tidyverse.org"><img src="man/figures/logo.png" align="right" height="138" /></a>
+# 2023 Suns Playoffs <a href="https://github.com/jeffdmoore8/suns-playoffs"><img src="www/suns-playoffs.png" align="right" height="138" /></a>
 
 <!-- badges: start -->
 
