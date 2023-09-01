@@ -5,7 +5,7 @@
 
 <!-- badges: start -->
 
-![check-app](https://github.com/jeffdmoore8/suns-playoffs/actions/workflows/check-app.yml/badge.svg)
+![check-app](https://github.com/jeffdmoore8/suns-playoffs/actions/workflows/check-app.yaml/badge.svg)
 
 <!-- badges: end -->
 
