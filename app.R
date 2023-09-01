@@ -41,7 +41,8 @@ tabPanel(title = 'Shot Chart',
          fluidPage(
            div(
             selectInput('player', label = 'Player', choices = shots$namePlayer %>% unique() %>% sort(), selected = 'Devin Booker'),
-            selectInput('game', label = 'Game', choices = game_logs$numberGameTeamSeason %>% unique() %>% sort())
+            selectInput('game', label = 'Game',
+                        choices = game_logs$numberGameTeamSeason %>% unique() %>% sort())
            ),
             plotOutput('plot', width = 'auto', height = '700px')
          )
